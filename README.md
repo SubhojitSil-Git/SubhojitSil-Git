@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studing at Techno International New Town <br>🤝 I’m looking for help with java , leetcode , how to build a good network<br>🌱 I’m currently learning BCA
+# About Me:
+ I’m currently studing at Techno International New Town <br> I’m looking for help with java , leetcode, python , backend <br> I’m currently studying japanese as i persue my goal of settling in japan , building a strong career and eventually obtaining permanent residency  
 
 
 ## 🌐 Socials:
