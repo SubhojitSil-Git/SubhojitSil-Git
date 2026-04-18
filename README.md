@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 Hi, I'm **Subhojit Sil** 👋  
 BCA Student @ Techno International New Town (2nd Semester)
