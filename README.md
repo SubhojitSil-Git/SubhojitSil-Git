@@ -57,14 +57,6 @@ https://github.com/SubhojitSil-Git/HIVE-study-cli
 
 ---
 
-## GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=subhojitsil-edu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=subhojitsil-edu&theme=tokyonight&hide_border=false)
-
----
-
 ## Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wayneisdumb)  
