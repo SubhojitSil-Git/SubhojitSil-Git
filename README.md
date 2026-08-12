@@ -47,13 +47,7 @@ Working toward higher studies in Japan through the MEXT Scholarship with a long 
 
 ---
 
-## Featured Projects
-
-### Jarvis  
-AI assistant focused on real interaction and workflow integration  
-Moves beyond chat into actual control and utility  
-
-https://github.com/SubhojitSil-Git/jarvis  
+## Featured Projects  
 
 ### HIVE Study CLI  
 Terminal based productivity system built for focus and speed  
