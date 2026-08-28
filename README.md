@@ -71,9 +71,3 @@ I build things I would actually use
 If it feels slow, I optimize it  
 If it feels messy, I redesign it  
 If it has no real purpose, I remove it  
-
----
-
-## Profile Views
-
-![](https://visitcount.itsvg.in/api?id=subhojitsil-edu&icon=0&color=0)
